@@ -10,6 +10,7 @@
 
 <body>
     <h1>Git Remote</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam, ex facilis minima harum cumque, itaque asperiores repudiandae et dolorum vel eaque ullam commodi sapiente quisquam? Velit a exercitationem ullam consequuntur.</p>
 </body>
 
 </html>
